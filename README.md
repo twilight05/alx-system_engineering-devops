@@ -1,0 +1,1 @@
+This repository contains answers to the 0x00-shell_basics project.
