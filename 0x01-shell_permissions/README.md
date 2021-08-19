@@ -1,0 +1,1 @@
+This directory cntains shell directions
