@@ -1,0 +1,1 @@
+This directory contains answers on shell variables expansions
